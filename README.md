@@ -8,7 +8,7 @@ Tenho 22 anos e sou desenvolvedor de software full stack e atuo em uma consultor
 
 * 🌍  Sou de São Paulo, Brazil
 * ✉️  Você pode entrar em contato comigo em [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)
-* 🧠  Atualmente estou melhorando minhas habilidade em NodeJs e React.
+* 🧠  Atualmente estou melhorando minhas habilidades em NodeJs e React.
 
 ### Skills
 
