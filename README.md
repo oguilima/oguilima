@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Guilherme
 Full Stack Software Developer
 -----------------------------
 
-Tenho 22 anos e sou desenvolvedor de software full stack e atuo em uma consultoria que presta serviços a grandes empresas, sou responsável por digitalizar processos que impactam na vida de milhares de pessoas todos os dias.
+Tenho 23 anos e sou desenvolvedor de software full stack e atuo em uma consultoria que presta serviços a grandes empresas, sou responsável por digitalizar processos que impactam na vida de milhares de pessoas todos os dias.
 
 * 🌍  São Paulo, Brasil
 * ✉️  Você pode entrar em contato comigo em [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)
