@@ -1,7 +1,7 @@
-<h1 align="center" style="color:white;">👋 Fala aí, eu sou o Guilherme</h1>
+<h1 align="center">👋 Fala aí, eu sou o Guilherme</h1>
 
-<p align="center" style="color:gray;">
-  <strong>Full Stack Developer</strong> que ama transformar ideias em soluções digitais impactantes 🚀
+<p align="center">
+  <strong>Full Stack Developer</strong> apaixonado por transformar ideias em soluções digitais escaláveis 🚀
 </p>
 
 <p align="center">
@@ -10,19 +10,19 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Tenho 24 anos e sou desenvolvedor full stack atuando em grandes projetos de consultoria. Meu foco é digitalizar processos que impactam diretamente a vida de milhares de pessoas.
+Tenho 24 anos e sou desenvolvedor full stack prestando serviços para grandes empresas. Ajudo a digitalizar processos que impactam milhares de pessoas todos os dias, focando em inovação, performance e escalabilidade.
 
-- 🌍 Local: São Paulo, Brasil  
+- 🌍 São Paulo, Brasil  
 - 📫 E-mail: [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/oguilima/)
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ Tecnologias & Ferramentas
 
-#### 🎨 Front-end
+### 🖥️ Front-end
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -32,46 +32,51 @@ Tenho 24 anos e sou desenvolvedor full stack atuando em grandes projetos de cons
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-#### 🧠 Back-end
+### 🧩 Back-end & APIs
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </p>
 
-#### 🗃️ Bancos de Dados
+### 🗃️ Banco de Dados
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="40" height="40"/>
 </p>
 
-#### 🛠️ Ferramentas e DevOps
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+### 🛠️ Ferramentas & Extras
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguilima&show_icons=true&theme=tokyonight" alt="Guilherme's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oguilima&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguilima&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+## 🌐 Redes Sociais
 
 <p>
   <a href="https://www.linkedin.com/in/oguilima/" target="_blank" rel="noreferrer">
