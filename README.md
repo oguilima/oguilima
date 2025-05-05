@@ -17,7 +17,6 @@ Desenvolvedor Full Stack com experiência em projetos para grandes empresas, par
 - 🎂 24 anos | 📍 São Paulo, Brasil  
 - 📫 E-mail: [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ogullima/)
-- 👨‍💻 [GitHub](https://github.com/ogullima)
 - 🖥️ [Portfólio](https://ogullima.github.io/portifoliov2/)
 
 ---
@@ -49,8 +48,7 @@ Desenvolvedor Full Stack com experiência em projetos para grandes empresas, par
 ### 🛠️ Ferramentas
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/TOTVS_logo.svg" alt="TOTVS Protheus" width="40" height="40"/>
-  <img src="[https://www.fluig.com/wp-content/themes/fluig/assets/img/logo-fluig.svg](https://avatars.githubusercontent.com/u/9423579?s=200&v=4)" alt="Fluig" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/9423579?s=200&v=4" alt="Fluig" width="40" height="40"/>
 </p>
 
 ---
