@@ -2,11 +2,11 @@
 
 ## Desenvolvedor de Software Full Stack
 
-Tenho 23 anos e atuo como desenvolvedor full stack em uma consultoria que presta serviços para grandes empresas. Sou responsável por digitalizar processos que impactam milhares de pessoas diariamente, contribuindo diretamente para a inovação e eficiência dos nossos clientes.
+Tenho 24 anos e atuo como desenvolvedor full stack prestando serviços para grandes empresas. Sou responsável por digitalizar processos que impactam milhares de pessoas diariamente, contribuindo diretamente para a inovação e eficiência dos nossos clientes.
 
 - 🌍 São Paulo, Brasil  
 - 📫 Entre em contato: [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-lima-91bb61175/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oguilima/)
 
 ---
 
@@ -54,7 +54,7 @@ Tenho 23 anos e atuo como desenvolvedor full stack em uma consultoria que presta
 ## 📱 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/guilherme-lima-91bb61175/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/oguilima/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
 </p>
