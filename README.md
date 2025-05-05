@@ -1,7 +1,7 @@
-<h1 align="center">👋 Fala aí, eu sou o Guilherme</h1>
+<h1 align="center">👋 Fala aí, eu sou o Guilherme Lima</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> apaixonado por transformar ideias em soluções digitais escaláveis 🚀
+  <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e aprendizado prático 🚀
 </p>
 
 <p align="center">
@@ -12,11 +12,14 @@
 
 ## 🧑‍💻 Sobre mim
 
-Tenho 24 anos e sou desenvolvedor full stack prestando serviços para grandes empresas. Ajudo a digitalizar processos que impactam milhares de pessoas todos os dias, focando em inovação, performance e escalabilidade.
+Desenvolvedor Full Stack com experiência em projetos para grandes empresas, participando desde o levantamento inicial até a entrega da solução validada. Busco colaborar ativamente em grandes projetos e impulsionar soluções de excelência visando qualidade e boas práticas.
 
-- 🌍 São Paulo, Brasil  
+- 🎂 24 anos | 📍 São Paulo, Brasil  
 - 📫 E-mail: [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oguilima/)
+- 📞 Celular: (11) 97228-5197
+- 💼 [LinkedIn](https://www.linkedin.com/in/ogullima/)
+- 👨‍💻 [GitHub](https://github.com/ogullima)
+- 🖥️ [Portfólio](https://ogullima.github.io/portifoliov2/)
 
 ---
 
@@ -27,59 +30,57 @@ Tenho 24 anos e sou desenvolvedor full stack prestando serviços para grandes em
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery" width="40" height="40"/>
 </p>
 
 ### 🧩 Back-end & APIs
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
 </p>
 
 ### 🗃️ Banco de Dados
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-</p>
-
-### 🛠️ Ferramentas & Extras
+### 🛠️ Ferramentas
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/TOTVS_logo.svg" alt="TOTVS Protheus" width="40" height="40"/>
+  <img src="https://www.fluig.com/wp-content/themes/fluig/assets/img/logo-fluig.svg" alt="Fluig" width="40" height="40"/>
 </p>
 
 ---
+
+## 💼 Experiência Profissional
+
+### Desenvolvedor Full Stack - Totvs Brasil Central
+**Out 2023 - Atual**  
+Responsável por desenvolver soluções para grandes clientes de diversos setores, participando desde o levantamento inicial até a entrega da solução validada.  
+Tecnologias: Angular, Java, jQuery, Advpl.
+
+### Desenvolvedor Full Stack - Grupo MFX
+**Out 2021 - Ago 2023**  
+Responsável por desenvolver soluções para grandes clientes, desenvolvendo processos de ponta a ponta utilizando a plataforma Fluig como acelerador de desenvolvimento.
+
+---
+
+## � Formação Acadêmica
+
+**Bacharelado em Ciência da Computação**  
+Universidade São Judas Tadeu - Completo
+
+---
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguilima&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ogullima&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguilima&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Redes Sociais
-
-<p>
-  <a href="https://www.linkedin.com/in/oguilima/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogullima&theme=tokyonight" alt="GitHub Streak" />
 </p>
