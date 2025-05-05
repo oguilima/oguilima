@@ -17,7 +17,7 @@ Desenvolvedor Full Stack com experiência em projetos para grandes empresas, par
 - 🎂 24 anos | 📍 São Paulo, Brasil  
 - 📫 E-mail: [oficialguilima@gmail.com](mailto:oficialguilima@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ogullima/)
-- 🖥️ [Portfólio](https://ogullima.github.io/portifoliov2/)
+- 🖥️ [Portfólio](https://oguilima.github.io/portifoliov2/)
 
 ---
 
